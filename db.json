@@ -1,0 +1,11 @@
+{
+  "designers": [
+    { "id": 1, "name": "Oleg", "specialty": "3D Modeling" },
+    { "id": 2, "name": "Anna", "specialty": "UI/UX" }
+  ],
+  "projects": [
+    { "id": 1, "title": "Sci-Fi Character", "designerId": 1, "tool": "ZBrush" },
+    { "id": 2, "title": "Mobile App Prototype", "designerId": 2, "tool": "Figma" },
+    { "id": 3, "title": "Low Poly Environment", "designerId": 1, "tool": "Blender" }
+  ]
+}
